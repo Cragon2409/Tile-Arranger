@@ -1,0 +1,7 @@
+- Add Setting to Disable Hint, and associated graphic
+- Implement Create Menu
+    - Implement Level Saving and Loading
+        - Implement colour function representation
+- Implement Storage and Showing of Done Levels
+- Implement Win Screen
+- Implement equivalent tile checking?
